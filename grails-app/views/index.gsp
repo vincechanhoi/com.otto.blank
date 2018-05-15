@@ -63,7 +63,7 @@
             </p>
 
             <div id="controllers" role="navigation">
-                <h2>Feature #2</h2>
+                <h2>Update in Development Branch</h2>
                 <ul>
                     <g:each var="c" in="${grailsApplication.controllerClasses.sort { it.fullName } }">
                         <li class="controller">
