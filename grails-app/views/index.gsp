@@ -62,6 +62,9 @@
                 this application, click on each to execute its default action:
             </p>
 
+            <div id="hotfix-1.0.1" role="navigation">
+                <h2>hotfix #1</h2>
+            </div>
             <div id="controllers" role="navigation">
                 <h2>Controllers</h2>
                 <ul>
