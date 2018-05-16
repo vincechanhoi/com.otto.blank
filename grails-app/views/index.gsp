@@ -87,6 +87,9 @@
             <div id="feature-for-1.0.2" role="navigation">
                 <h2>feature 2</h2>
             </div>
+            <div id="feature-for-1.0.3" role="navigation">
+                <h2>feature 1</h2>
+            </div>
         </section>
     </div>
 
