@@ -63,9 +63,7 @@
             </p>
 
             <div id="controllers" role="navigation">
-                <h2>Feature #2</h2>
-                <h2>Update in development branch</h2>
-                <h2>More update in development branch</h2>
+                <h2>Controllers</h2>
                 <ul>
                     <g:each var="c" in="${grailsApplication.controllerClasses.sort { it.fullName } }">
                         <li class="controller">
@@ -73,8 +71,6 @@
                         </li>
                     </g:each>
                 </ul>
-                <h2>Some Hot more fix in Hotfix Branch</h2>
-                <h2>Some more Hot more fix in Hotfix Branch</h2>
             </div>
         </section>
     </div>
