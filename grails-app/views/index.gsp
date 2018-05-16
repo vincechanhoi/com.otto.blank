@@ -75,6 +75,9 @@
             <div id="bugfix-1.0.0.4" role="navigation">
                 <h2>bugfix #1</h2>
             </div>
+            <div id="bugfix-1.0.0.4" role="navigation">
+                <h2>bugfix #2</h2>
+            </div>
         </section>
     </div>
 
