@@ -19,5 +19,3 @@ if (typeof jQuery !== 'undefined') {
         });
     })(jQuery);
 }
-
-// hello world
