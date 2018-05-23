@@ -19,3 +19,5 @@ if (typeof jQuery !== 'undefined') {
         });
     })(jQuery);
 }
+
+// 1.0.5 hot fix
