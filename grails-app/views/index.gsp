@@ -105,10 +105,6 @@
             <div id="feature-for-1.0.6" role="navigation">
                 <h2>feature 5</h2>
             </div>
-
-                        <div id="feature-for-1.0.6" role="navigation">
-                            <h2>at feature branch</h2>
-                        </div>
         </section>
     </div>
 
