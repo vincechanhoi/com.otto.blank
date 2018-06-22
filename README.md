@@ -1,7 +1,29 @@
 # com.otto.blank
 
-update test
+Release version 1.0.8
 
-update form github
+## V1.0.8 
+### Feature #1001
+completed
 
-update from feature/1234
+## V1.0.9
+### Feature #1002
+pending
+
+### Feature #1003
+pending
+
+### Feature #1004
+pending
+
+## V1.1.0
+### Feature #1005
+pending
+
+### Feature #1006
+pending
+
+
+## V1.1.1
+### Feature #1007
+pending
