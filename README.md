@@ -14,7 +14,7 @@ Greed is good
 
 **Feature #1003**
 
-pending
+There is no spoon
 
 **Feature #1004**
 
