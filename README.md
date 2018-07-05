@@ -10,7 +10,7 @@ completed
 ## V1.0.9
 **Feature #1002**
 
-pending
+Greed is good
 
 **Feature #1003**
 
